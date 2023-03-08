@@ -1,0 +1,54 @@
+body {
+    background-color: #85e0ff;
+}
+
+body > div > div {
+    border: 5px solid rgb(71, 213, 71);;
+    padding: 40px;
+    margin: 20px auto;
+    max-width: 600px;
+    color: white;
+}
+
+body > div {
+    margin: 0 20px;
+}
+
+nav, h1 {
+    text-align: center;
+}
+
+h1 {
+    font-style: italic;
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+nav {
+    font-weight: bold
+}
+
+img {
+    width: 200px;
+    float: right;
+}
+
+nav li {
+    display: inline;
+}
+
+a {
+    color: rgb(71, 213, 71);
+}
+
+span {
+    color: black;
+    font-weight: normal;
+}
+
+p {
+    font-size: 20px;
+}
