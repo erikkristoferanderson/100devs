@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+header, footer {
+    height: 150px;
+}
+
+section > div, .section-1 {
+    border: 1px solid gray;
+}
+
+.section-1 {
+    height: 250px;
+}
+
+.section-2  div {
+    height: 300px;
+    float: left;
+    width: 40%;
+}
+
+.section-2 div:last-child {
+    width: 60%;
+}
