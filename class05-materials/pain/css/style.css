@@ -1,0 +1,19 @@
+header, footer {
+    /* width: 100%; */
+    border: 3px solid black;
+    height: 100px
+}
+
+section {
+    float: left;
+    box-sizing: border-box;
+    width: 33.3333%;
+    height: 400px;
+    border: 3px solid black;
+}
+
+
+
+footer {
+    clear: left;
+}
