@@ -29,35 +29,13 @@ body {
 /******************************************
 /* LAYOUT
 /*******************************************/
+header {
 
-header, footer {
-     border: 3px solid black;
-     height: 100px
- }
- 
-section {
-     border: 3px solid black;
-     height: 400px;
 }
 
- @media screen and (min-width: 800px) {
-     section {
-          float: left;
-          box-sizing: border-box;
-          width: 33.3333%;
-          
-          
-     }
-     
+footer {
+
 }
- 
- footer {
-     clear: left;
- }
-
-
-
-
 
 /******************************************
 /* ADDITIONAL STYLES
